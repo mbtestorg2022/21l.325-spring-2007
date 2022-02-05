@@ -47,13 +47,94 @@ Provocations
 
 Using the class mailing list, students were expected to post a provocative statement or probing analytic question about the course [readings]({{< baseurl >}}/pages/readings) throughout the semester. Students were required to post their "provocations" prior to the class discussion of the readings.  These assignments and their respective due dates appear in the table below.
 
-| DUE DATES | ASSIGNMENTS |
-| --- | --- |
-| Ses #1 | Getting to know you: Prepare and present "your story." (Fact, fiction, no matter what the proportions.) |
-| 1 day before Ses #3 | Post on the class mailing list either a provocative statement or a probing analytic question about _Cosmicomics_. |
-| 1 day before Ses #7 | Post the usual provocation about "Bartleby, the Scrivener" or "The Minister's Black Veil." |
-| 2 days before Ses #9 | Post a provocation about any of the upcoming week's readings: "The Lone Ranger and Tonto" or "I Stand Here Ironing." |
-| 1 day before Ses #11 |  {{< br >}}{{< br >}} Post a provocation about Gilman's "The Yellow Wallpaper." {{< br >}}{{< br >}}  |
-| 1 day before Ses #15 | Post a provocation about _Daisy Miller_. |
-| 1 day before Ses #17 | Post a provocation about _Spotted Horses_. |
-| 1 day before Ses #19 | Post a provocation about Joyce's "The Dead."
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+DUE DATES
+{{< thclose >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Ses #1
+{{< tdclose >}}
+{{< tdopen >}}
+Getting to know you: Prepare and present "your story." (Fact, fiction, no matter what the proportions.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1 day before Ses #3
+{{< tdclose >}}
+{{< tdopen >}}
+Post on the class mailing list either a provocative statement or a probing analytic question about _Cosmicomics_.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1 day before Ses #7
+{{< tdclose >}}
+{{< tdopen >}}
+Post the usual provocation about "Bartleby, the Scrivener" or "The Minister's Black Veil."
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2 days before Ses #9
+{{< tdclose >}}
+{{< tdopen >}}
+Post a provocation about any of the upcoming week's readings: "The Lone Ranger and Tonto" or "I Stand Here Ironing."
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1 day before Ses #11
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Post a provocation about Gilman's "The Yellow Wallpaper."
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1 day before Ses #15
+{{< tdclose >}}
+{{< tdopen >}}
+Post a provocation about _Daisy Miller_.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1 day before Ses #17
+{{< tdclose >}}
+{{< tdopen >}}
+Post a provocation about _Spotted Horses_.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1 day before Ses #19
+{{< tdclose >}}
+{{< tdopen >}}
+Post a provocation about Joyce's "The Dead."
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
